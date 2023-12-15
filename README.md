@@ -5,3 +5,5 @@ Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav pua
 Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın.
 
 Not : If ve Else kullanılmayacak...
+
+NOT : Ödev dosyası src klasörünün içerisindeki Odev yazan uzantı içerisindedir.
